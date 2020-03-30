@@ -1,0 +1,10 @@
+C:\Users\kriza\Desktop\GitHub\Atividade3\PTriângulos\PTriângulos\bin\Debug\PTriângulos.exe.config
+C:\Users\kriza\Desktop\GitHub\Atividade3\PTriângulos\PTriângulos\bin\Debug\PTriângulos.exe
+C:\Users\kriza\Desktop\GitHub\Atividade3\PTriângulos\PTriângulos\bin\Debug\PTriângulos.pdb
+C:\Users\kriza\Desktop\GitHub\Atividade3\PTriângulos\PTriângulos\obj\Debug\PTriângulos.csprojAssemblyReference.cache
+C:\Users\kriza\Desktop\GitHub\Atividade3\PTriângulos\PTriângulos\obj\Debug\PTriângulos.Form1.resources
+C:\Users\kriza\Desktop\GitHub\Atividade3\PTriângulos\PTriângulos\obj\Debug\PTriângulos.Properties.Resources.resources
+C:\Users\kriza\Desktop\GitHub\Atividade3\PTriângulos\PTriângulos\obj\Debug\PTriângulos.csproj.GenerateResource.cache
+C:\Users\kriza\Desktop\GitHub\Atividade3\PTriângulos\PTriângulos\obj\Debug\PTriângulos.csproj.CoreCompileInputs.cache
+C:\Users\kriza\Desktop\GitHub\Atividade3\PTriângulos\PTriângulos\obj\Debug\PTriângulos.exe
+C:\Users\kriza\Desktop\GitHub\Atividade3\PTriângulos\PTriângulos\obj\Debug\PTriângulos.pdb
