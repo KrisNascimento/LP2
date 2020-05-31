@@ -1,0 +1,14 @@
+C:\Users\KRISANGELADONASCIMEN\Documents\Fatec 2020-1S\Eletiva LP2\Atividade6\Atividade6\Atividade6\bin\Debug\Atividade6.exe.config
+C:\Users\KRISANGELADONASCIMEN\Documents\Fatec 2020-1S\Eletiva LP2\Atividade6\Atividade6\Atividade6\bin\Debug\Atividade6.exe
+C:\Users\KRISANGELADONASCIMEN\Documents\Fatec 2020-1S\Eletiva LP2\Atividade6\Atividade6\Atividade6\bin\Debug\Atividade6.pdb
+C:\Users\KRISANGELADONASCIMEN\Documents\Fatec 2020-1S\Eletiva LP2\Atividade6\Atividade6\Atividade6\obj\Debug\Atividade6.csprojAssemblyReference.cache
+C:\Users\KRISANGELADONASCIMEN\Documents\Fatec 2020-1S\Eletiva LP2\Atividade6\Atividade6\Atividade6\obj\Debug\Atividade6.frmPrincipal.resources
+C:\Users\KRISANGELADONASCIMEN\Documents\Fatec 2020-1S\Eletiva LP2\Atividade6\Atividade6\Atividade6\obj\Debug\Atividade6.Properties.Resources.resources
+C:\Users\KRISANGELADONASCIMEN\Documents\Fatec 2020-1S\Eletiva LP2\Atividade6\Atividade6\Atividade6\obj\Debug\Atividade6.csproj.GenerateResource.cache
+C:\Users\KRISANGELADONASCIMEN\Documents\Fatec 2020-1S\Eletiva LP2\Atividade6\Atividade6\Atividade6\obj\Debug\Atividade6.csproj.CoreCompileInputs.cache
+C:\Users\KRISANGELADONASCIMEN\Documents\Fatec 2020-1S\Eletiva LP2\Atividade6\Atividade6\Atividade6\obj\Debug\Atividade6.exe
+C:\Users\KRISANGELADONASCIMEN\Documents\Fatec 2020-1S\Eletiva LP2\Atividade6\Atividade6\Atividade6\obj\Debug\Atividade6.pdb
+C:\Users\KRISANGELADONASCIMEN\Documents\Fatec 2020-1S\Eletiva LP2\Atividade6\Atividade6\Atividade6\obj\Debug\Atividade6.frmExercício1.resources
+C:\Users\KRISANGELADONASCIMEN\Documents\Fatec 2020-1S\Eletiva LP2\Atividade6\Atividade6\Atividade6\obj\Debug\Atividade6.frmExercício2.resources
+C:\Users\KRISANGELADONASCIMEN\Documents\Fatec 2020-1S\Eletiva LP2\Atividade6\Atividade6\Atividade6\obj\Debug\Atividade6.frmExercício3.resources
+C:\Users\KRISANGELADONASCIMEN\Documents\Fatec 2020-1S\Eletiva LP2\Atividade6\Atividade6\Atividade6\obj\Debug\Atividade6.frmExercício4.resources
