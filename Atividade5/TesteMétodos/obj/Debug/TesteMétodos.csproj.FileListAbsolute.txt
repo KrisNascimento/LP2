@@ -1,0 +1,26 @@
+C:\Users\KRISANGELADONASCIMEN\source\repos\TesteMétodos\TesteMétodos\bin\Debug\TesteMétodos.exe.config
+C:\Users\KRISANGELADONASCIMEN\source\repos\TesteMétodos\TesteMétodos\bin\Debug\TesteMétodos.exe
+C:\Users\KRISANGELADONASCIMEN\source\repos\TesteMétodos\TesteMétodos\bin\Debug\TesteMétodos.pdb
+C:\Users\KRISANGELADONASCIMEN\source\repos\TesteMétodos\TesteMétodos\obj\Debug\TesteMétodos.csprojAssemblyReference.cache
+C:\Users\KRISANGELADONASCIMEN\source\repos\TesteMétodos\TesteMétodos\obj\Debug\TesteMétodos.frmPrincipal.resources
+C:\Users\KRISANGELADONASCIMEN\source\repos\TesteMétodos\TesteMétodos\obj\Debug\TesteMétodos.frmExercício2.resources
+C:\Users\KRISANGELADONASCIMEN\source\repos\TesteMétodos\TesteMétodos\obj\Debug\TesteMétodos.Properties.Resources.resources
+C:\Users\KRISANGELADONASCIMEN\source\repos\TesteMétodos\TesteMétodos\obj\Debug\TesteMétodos.csproj.GenerateResource.cache
+C:\Users\KRISANGELADONASCIMEN\source\repos\TesteMétodos\TesteMétodos\obj\Debug\TesteMétodos.csproj.CoreCompileInputs.cache
+C:\Users\KRISANGELADONASCIMEN\source\repos\TesteMétodos\TesteMétodos\obj\Debug\TesteMétodos.exe
+C:\Users\KRISANGELADONASCIMEN\source\repos\TesteMétodos\TesteMétodos\obj\Debug\TesteMétodos.pdb
+C:\Users\KRISANGELADONASCIMEN\source\repos\TesteMétodos\TesteMétodos\obj\Debug\TesteMétodos.frmExercício3.resources
+C:\Users\KRISANGELADONASCIMEN\Documents\Fatec 2020-1S\Eletiva LP2\Atividade5\TesteMétodos\bin\Debug\TesteMétodos.exe.config
+C:\Users\KRISANGELADONASCIMEN\Documents\Fatec 2020-1S\Eletiva LP2\Atividade5\TesteMétodos\bin\Debug\TesteMétodos.exe
+C:\Users\KRISANGELADONASCIMEN\Documents\Fatec 2020-1S\Eletiva LP2\Atividade5\TesteMétodos\bin\Debug\TesteMétodos.pdb
+C:\Users\KRISANGELADONASCIMEN\Documents\Fatec 2020-1S\Eletiva LP2\Atividade5\TesteMétodos\obj\Debug\TesteMétodos.csprojAssemblyReference.cache
+C:\Users\KRISANGELADONASCIMEN\Documents\Fatec 2020-1S\Eletiva LP2\Atividade5\TesteMétodos\obj\Debug\TesteMétodos.frmPrincipal.resources
+C:\Users\KRISANGELADONASCIMEN\Documents\Fatec 2020-1S\Eletiva LP2\Atividade5\TesteMétodos\obj\Debug\TesteMétodos.frmExercício2.resources
+C:\Users\KRISANGELADONASCIMEN\Documents\Fatec 2020-1S\Eletiva LP2\Atividade5\TesteMétodos\obj\Debug\TesteMétodos.frmExercício3.resources
+C:\Users\KRISANGELADONASCIMEN\Documents\Fatec 2020-1S\Eletiva LP2\Atividade5\TesteMétodos\obj\Debug\TesteMétodos.Properties.Resources.resources
+C:\Users\KRISANGELADONASCIMEN\Documents\Fatec 2020-1S\Eletiva LP2\Atividade5\TesteMétodos\obj\Debug\TesteMétodos.csproj.GenerateResource.cache
+C:\Users\KRISANGELADONASCIMEN\Documents\Fatec 2020-1S\Eletiva LP2\Atividade5\TesteMétodos\obj\Debug\TesteMétodos.csproj.CoreCompileInputs.cache
+C:\Users\KRISANGELADONASCIMEN\Documents\Fatec 2020-1S\Eletiva LP2\Atividade5\TesteMétodos\obj\Debug\TesteMétodos.exe
+C:\Users\KRISANGELADONASCIMEN\Documents\Fatec 2020-1S\Eletiva LP2\Atividade5\TesteMétodos\obj\Debug\TesteMétodos.pdb
+C:\Users\KRISANGELADONASCIMEN\Documents\Fatec 2020-1S\Eletiva LP2\Atividade5\TesteMétodos\obj\Debug\TesteMétodos.frmExercício4.resources
+C:\Users\KRISANGELADONASCIMEN\Documents\Fatec 2020-1S\Eletiva LP2\Atividade5\TesteMétodos\obj\Debug\TesteMétodos.frmExercício5.resources

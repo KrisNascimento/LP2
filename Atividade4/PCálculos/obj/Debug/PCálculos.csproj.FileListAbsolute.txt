@@ -1,0 +1,10 @@
+C:\Users\kriza\Desktop\GitHub\Atividade4\PCálculos\PCálculos\bin\Debug\PCálculos.exe.config
+C:\Users\kriza\Desktop\GitHub\Atividade4\PCálculos\PCálculos\bin\Debug\PCálculos.exe
+C:\Users\kriza\Desktop\GitHub\Atividade4\PCálculos\PCálculos\bin\Debug\PCálculos.pdb
+C:\Users\kriza\Desktop\GitHub\Atividade4\PCálculos\PCálculos\obj\Debug\PCálculos.csprojAssemblyReference.cache
+C:\Users\kriza\Desktop\GitHub\Atividade4\PCálculos\PCálculos\obj\Debug\PCálculos.Form1.resources
+C:\Users\kriza\Desktop\GitHub\Atividade4\PCálculos\PCálculos\obj\Debug\PCálculos.Properties.Resources.resources
+C:\Users\kriza\Desktop\GitHub\Atividade4\PCálculos\PCálculos\obj\Debug\PCálculos.csproj.GenerateResource.cache
+C:\Users\kriza\Desktop\GitHub\Atividade4\PCálculos\PCálculos\obj\Debug\PCálculos.csproj.CoreCompileInputs.cache
+C:\Users\kriza\Desktop\GitHub\Atividade4\PCálculos\PCálculos\obj\Debug\PCálculos.exe
+C:\Users\kriza\Desktop\GitHub\Atividade4\PCálculos\PCálculos\obj\Debug\PCálculos.pdb
