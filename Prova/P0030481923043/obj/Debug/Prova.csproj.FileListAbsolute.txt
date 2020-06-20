@@ -1,0 +1,10 @@
+C:\Users\KRISANGELADONASCIMEN\Documents\Fatec 2020-1S\Eletiva LP2\LP2\Prova\Prova\bin\Debug\Prova.exe.config
+C:\Users\KRISANGELADONASCIMEN\Documents\Fatec 2020-1S\Eletiva LP2\LP2\Prova\Prova\bin\Debug\Prova.exe
+C:\Users\KRISANGELADONASCIMEN\Documents\Fatec 2020-1S\Eletiva LP2\LP2\Prova\Prova\bin\Debug\Prova.pdb
+C:\Users\KRISANGELADONASCIMEN\Documents\Fatec 2020-1S\Eletiva LP2\LP2\Prova\Prova\obj\Debug\Prova.csprojAssemblyReference.cache
+C:\Users\KRISANGELADONASCIMEN\Documents\Fatec 2020-1S\Eletiva LP2\LP2\Prova\Prova\obj\Debug\Prova.frmProva.resources
+C:\Users\KRISANGELADONASCIMEN\Documents\Fatec 2020-1S\Eletiva LP2\LP2\Prova\Prova\obj\Debug\Prova.Properties.Resources.resources
+C:\Users\KRISANGELADONASCIMEN\Documents\Fatec 2020-1S\Eletiva LP2\LP2\Prova\Prova\obj\Debug\Prova.csproj.GenerateResource.cache
+C:\Users\KRISANGELADONASCIMEN\Documents\Fatec 2020-1S\Eletiva LP2\LP2\Prova\Prova\obj\Debug\Prova.csproj.CoreCompileInputs.cache
+C:\Users\KRISANGELADONASCIMEN\Documents\Fatec 2020-1S\Eletiva LP2\LP2\Prova\Prova\obj\Debug\Prova.exe
+C:\Users\KRISANGELADONASCIMEN\Documents\Fatec 2020-1S\Eletiva LP2\LP2\Prova\Prova\obj\Debug\Prova.pdb
