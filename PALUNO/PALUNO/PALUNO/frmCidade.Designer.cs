@@ -67,6 +67,7 @@
             // btnSair
             // 
             this.btnSair.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.btnSair.Enabled = false;
             this.btnSair.Image = ((System.Drawing.Image)(resources.GetObject("btnSair.Image")));
             this.btnSair.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.btnSair.Name = "btnSair";
@@ -77,6 +78,7 @@
             // btnAlterar
             // 
             this.btnAlterar.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.btnAlterar.Enabled = false;
             this.btnAlterar.Image = ((System.Drawing.Image)(resources.GetObject("btnAlterar.Image")));
             this.btnAlterar.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.btnAlterar.Name = "btnAlterar";
@@ -274,7 +276,7 @@
             this.Dados.Controls.Add(this.dgvCidade);
             this.Dados.Location = new System.Drawing.Point(4, 22);
             this.Dados.Name = "Dados";
-            this.Dados.Padding = new System.Windows.Forms.Padding(3, 3, 3, 3);
+            this.Dados.Padding = new System.Windows.Forms.Padding(3);
             this.Dados.Size = new System.Drawing.Size(348, 200);
             this.Dados.TabIndex = 0;
             this.Dados.Text = "Dados";
@@ -284,8 +286,8 @@
             // 
             this.dgvCidade.AllowUserToAddRows = false;
             this.dgvCidade.AllowUserToDeleteRows = false;
-            this.dgvCidade.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
-            | System.Windows.Forms.AnchorStyles.Left)
+            this.dgvCidade.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.dgvCidade.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvCidade.Location = new System.Drawing.Point(0, 3);
@@ -307,7 +309,7 @@
             this.Detalhes.Controls.Add(this.lblId);
             this.Detalhes.Location = new System.Drawing.Point(4, 22);
             this.Detalhes.Name = "Detalhes";
-            this.Detalhes.Padding = new System.Windows.Forms.Padding(3, 3, 3, 3);
+            this.Detalhes.Padding = new System.Windows.Forms.Padding(3);
             this.Detalhes.Size = new System.Drawing.Size(348, 200);
             this.Detalhes.TabIndex = 1;
             this.Detalhes.Text = "Detalhes";
@@ -347,7 +349,7 @@
             "SE",
             "TO"});
             this.cbxEstado.Location = new System.Drawing.Point(131, 108);
-            this.cbxEstado.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.cbxEstado.Margin = new System.Windows.Forms.Padding(2);
             this.cbxEstado.Name = "cbxEstado";
             this.cbxEstado.Size = new System.Drawing.Size(82, 21);
             this.cbxEstado.TabIndex = 3;
@@ -369,7 +371,7 @@
             this.ClientSize = new System.Drawing.Size(449, 311);
             this.Controls.Add(this.bnvCidade);
             this.Controls.Add(this.TabControl1);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "frmCidade";
             this.Text = "Cidade";
             this.Load += new System.EventHandler(this.frmCidade_Load);

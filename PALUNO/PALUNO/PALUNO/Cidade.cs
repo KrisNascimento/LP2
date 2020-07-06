@@ -8,7 +8,7 @@ using System.Data;
 
 namespace PALUNO
 {
-    class frmCidade
+    class Cidade
     {
 
         private int idcidade;
@@ -64,7 +64,7 @@ namespace PALUNO
 
             try
             {
-                daCidade = new SqlDataAdapter("SELECT * FROM TBCIDADE", frmPrincipal.conexao);
+                daCidade = new SqlDataAdapter("SELECT * FROM TBcidade", frmPrincipal.conexao);
                 daCidade.Fill(dtCidade);
                 daCidade.FillSchema(dtCidade, SchemaType.Source);
             }
@@ -127,9 +127,9 @@ namespace PALUNO
                 mycommand.Parameters.Add(new SqlParameter("@nome_cidade", SqlDbType.VarChar));
                 mycommand.Parameters.Add(new SqlParameter("@uf_cidade", SqlDbType.Char));
 
-                mycommand.Parameters["@id_cidade"].Value = idcidade;
-                mycommand.Parameters["@nome_cidade"].Value = nomecidade;
-                mycommand.Parameters["@uf_cidade"].Value = ufcidade;
+                mycommand.Parameters["@id_cidade"].Value = Idcidade;
+                mycommand.Parameters["@nome_cidade"].Value = Nomecidade;
+                mycommand.Parameters["@uf_cidade"].Value = Ufcidade;
 
                 nReg = mycommand.ExecuteNonQuery();
                 if (nReg > 0)
@@ -169,3 +169,5 @@ namespace PALUNO
         }
     }
 }
+
+

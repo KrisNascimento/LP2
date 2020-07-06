@@ -109,7 +109,7 @@ namespace PALUNO
             {
                 frmCidade RegCid = new frmCidade();
 
-                RegCid.Idcidade = Convert.ToInt16(txtId.Text);
+                RegCid.Id_cidade = Convert.ToInt16(txtId.Text);
                 RegCid.Nomecidade = txtNomeCidade.Text;
                 RegCid.Ufcidade = cbxEstado.SelectedItem.ToString();
 

@@ -47,9 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Aluno.cs" />
-    <Compile Include="Cidade.cs">
-      <SubType>Form</SubType>
-    </Compile>
+    <Compile Include="Cidade.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>

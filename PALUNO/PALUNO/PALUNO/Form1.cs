@@ -25,7 +25,7 @@ namespace PALUNO
         {
             try
             {
-                conexao = new SqlConnection("Data Source=DESKTOP-TG0VP0B\SQLEXPRESS;Initial Catalog=LP2;Integrated Security=True");
+                conexao = new SqlConnection("Data Source=DESKTOP-TG0VP0B\\SQLEXPRESS;Initial Catalog=LP2;Integrated Security=True");
                 conexao.Open();
             }
             catch (SqlException ex)
